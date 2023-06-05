@@ -1,9 +1,9 @@
-title: C++ and stuff
+title: Ritinlal's blog
 description: >- # this means to ignore newlines until "baseurl:"
-  Short posts about simple tools I'm working on. Mostly C++ related
+  Short posts about simple tools I'm working on.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: ggerganov
+url: "https://ritinlal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: ritinlal 
 
 # Build settings
 markdown: kramdown
