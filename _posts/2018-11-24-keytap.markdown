@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Keytap: acoustic keyboard eavesdropping"
-date:   2018-11-24 13:00:00 +0200
-permalink: keytap
-redirect_to: https://keytap.ggerganov.com
-categories: jekyll update
----
